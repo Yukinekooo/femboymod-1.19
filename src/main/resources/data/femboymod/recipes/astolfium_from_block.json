@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "femboymod:astolfium_block"
+    }
+  ],
+  "result": {
+    "item": "femboymod:astolfium",
+    "count": 9
+  }
+}

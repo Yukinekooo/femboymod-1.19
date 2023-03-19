@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+    "key": {
+        "#": {
+        "item": "femboymod:astolfium"
+        }
+    },
+  "result": {
+    "item": "femboymod:astolfium_block",
+    "count": 1
+  }
+}
