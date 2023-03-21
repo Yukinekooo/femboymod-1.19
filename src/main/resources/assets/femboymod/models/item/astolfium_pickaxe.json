@@ -1,0 +1,22 @@
+
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "femboymod:item/astolfium_pickaxe"
+  },
+  "elements": [
+    {
+      "name": "handle",
+      "from": [ 0, 0, 0 ],
+      "to": [ 16, 16, 16 ],
+      "faces": {
+        "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#layer0" },
+        "east": { "uv": [ 0, 0, 16, 16 ], "texture": "#layer0" },
+        "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#layer0" },
+        "west": { "uv": [ 0, 0, 16, 16 ], "texture": "#layer0" },
+        "up": { "uv": [ 0, 0, 16, 16 ], "texture": "#layer0" },
+        "down": { "uv": [ 0, 0, 16, 16 ], "texture": "#layer0" }
+      }
+    }
+  ]
+}

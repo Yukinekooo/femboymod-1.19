@@ -1,4 +1,4 @@
-package net.mufaro.femboymod.item.custom;
+package net.mufaro.femboymod.item.custom.astolfium;
 
 import net.minecraft.ChatFormatting;
 import net.minecraft.client.Minecraft;
